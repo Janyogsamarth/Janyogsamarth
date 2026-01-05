@@ -37,8 +37,8 @@
   </section>
 
   <!-- Donate -->
-  <section class="section" id="donate">
-    <h2>Support Us</h2>
+  <section class="section" id="Pay">
+    <h2>Pay here</h2>
     <p>Scan the QR code using any UPI app</p>
     <img src="qr.jpg" alt="UPI QR Code" class="qr">
     <p class="upi-name">UPI Name: <strong>Bijoy Pal</strong></p>
